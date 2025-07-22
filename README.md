@@ -76,4 +76,20 @@ See the LICENSE file for more details.
 [NAGARJUN B N]
 Final Year B.E(CSE) Student (2025 Batch)
 GitHub: @NAGARJUN0910
+username
+
+🤝 Contributions
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request.
+
+📬 Contact
+If you have any questions or feedback, feel free to reach out via GitHub or email.
+
+yaml
+Let me know if you’d like:
+- This as a downloadable `.md` file
+- A version customized to include your real name or GitHub username
+- Help creating the `requirements.txt` file from your project
+
+I can help you set up the entire GitHub repo cleanly!
 
