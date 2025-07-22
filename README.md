@@ -68,4 +68,12 @@ ddos-attack-prediction/
 ├── .gitignore             # Files to exclude from version control
 └── LICENSE                # MIT License
 
+📄 License
+This project is licensed under the MIT License.
+See the LICENSE file for more details.
+
+🙋‍♂️ Author
+[NAGARJUN B N]
+Final Year B.E(CSE) Student (2025 Batch)
+GitHub: @NAGARJUN0910
 
